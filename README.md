@@ -3,16 +3,16 @@
   
 ***
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;QUEEN+RIAS;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+TOXXIC+BOY;RELEASED+26.11.24" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;QUEEN+RIAS;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+Sancho+official;RELEASED+26.11.24" alt="Typing SVG" /></a>
   </p>
   <a href="https://i.ibb.co/YQQZNhY/rias4.jpg"><img src="https://i.ibb.co/YQQZNhY/rias4.jpg" alt="IMG-20241124-WA0446" border="0"></a>
 <p align="center">
 <pQUEEN-RIAS align="center">
-<a href="https://github.com/Toxic1239/Queen-RiasV3_"><img title="Author" src="https://img.shields.io/badge/Rias Gremory-black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Sancho-cyber/Queen-RiasV3_"><img title="Author" src="https://img.shields.io/badge/Rias Gremory-black?style=for-the-badge&logo=github"></a>
 <p align="center">
-<a href="https://github.com/Toxic1239/followers"><img title="Followers" src="https://img.shields.io/github/followers/Toxic1239?color=blue&style=flat-square"></a>
-<a href="https://github.com/Toxic1239/Queen-RiasV3_/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Toxic1239/Queen-RiasV3_?color=red&style=flat-square"></a>
-<a href="https://github.com/Toxic1239/Queen-RiasV3_/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Toxic1239/Queen-RiasV3_?color=green&style=flat-square"></a>
+<a href="https://github.com/Sancho-cyber/followers"><img title="Followers" src="https://img.shields.io/github/followers/Toxic1239?color=blue&style=flat-square"></a>
+<a href="https://github.com/Sancho-cyber/Queen-RiasV3_/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Toxic1239/Queen-RiasV3_?color=red&style=flat-square"></a>
+<a href="https://github.com/Sancho-cyber/Queen-RiasV3_/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Toxic1239/Queen-RiasV3_?color=green&style=flat-square"></a>
 <a href="https://github.com/Toxic1239/Queen-RiasV3_/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Toxic1239/Queen-RiasV3_?label=Watchers&color=yellow&style=flat-square"></a>
 
 #### SETUP 
@@ -126,8 +126,8 @@ npm start
 ***
 ### DEVELOPER:
 **GET In Touch with The Owner**
-- [**On TELEGRAM**](https://t.me/Toxxicn_bot)
-- [**CHANNEL**](https://whatsapp.com/channel/0029Vao1R2n9sBIC9sPhvI1P) 
+- [**On TELEGRAM**]0710776628
+- [**CHANNEL**](https://whatsapp.com/channel/0029Vb3GSGl4Y9lhprXW2w3C
 ***
 ### WARNING
 
@@ -143,7 +143,7 @@ npm start
  ## [WEBSITE](https://toxxic-site.vercel.app/) 
 ### THANKS TO:
 
-- Myself Toxxic For making This bot
+- Myself Sancho For making This bot
 - Nexus Team For Support
 - The Almighty and His Team For Testing
 - Blue Demon For Support And Api and his wisdom
