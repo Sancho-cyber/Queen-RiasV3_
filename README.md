@@ -140,7 +140,7 @@ npm start
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
- ## [WEBSITE](https://toxxic-site.vercel.app/) 
+ ## [WEBSITE](https://whatsapp.com/channel/0029Vb3GSGl4Y9lhprXW2w3C) 
 ### THANKS TO:
 
 - Myself Sancho For making This bot
